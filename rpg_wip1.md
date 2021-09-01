@@ -24,9 +24,9 @@
 </thead>
 <tbody>
 <tr>
-<td align="center">6</td>
-<td align="center">4</td>
-<td align="center">2</td>
+<td align="center">5</td>
+<td align="center">3</td>
+<td align="center">1</td>
 </tr>
 </tbody>
 </table><h2 id="character-creation">Character Creation</h2>
