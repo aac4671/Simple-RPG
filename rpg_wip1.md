@@ -12,7 +12,7 @@
   <div class="stackedit__html"><h1 id="simple-rpg">Simple RPG</h1>
 <p><em>A TTRPG by A.A. Carroll on behalf of 1d6Gnolls Games.</em></p>
 <h2 id="the-main-rule">The Main Rule</h2>
-<p>Roll a die when the result of an action is uncertain. If the result is equal to or greater than the target number, you succeed.</p>
+<p>Roll a die when the result of an action is uncertain. If the result is equal to or less than the target number, you succeed.</p>
 
 <table>
 <thead>
@@ -24,14 +24,14 @@
 </thead>
 <tbody>
 <tr>
-<td align="center">2</td>
-<td align="center">4</td>
 <td align="center">6</td>
+<td align="center">4</td>
+<td align="center">2</td>
 </tr>
 </tbody>
 </table><h2 id="character-creation">Character Creation</h2>
 <p>You have three <strong>stats: Strength, Dexterity, and Willpower.</strong></p>
-<p>Roll a die for each stat, in order. The result is your <strong>ability score</strong> for that stat. When trying to do something related to one of your stats, use <code>7 minus that stat</code> as the difficulty.</p>
+<p>Roll a die for each stat, in order. The result is your <strong>ability score</strong> for that stat. When trying to do something related to one of your stats, use the stat as the difficulty.</p>
 <p>Start with basic clothes, $5, and a weapon.</p>
 <p>Your character can be hit three times before they die. Be careful!</p>
 <h3 id="optional-character-classes">Optional: Character Classes</h3>
