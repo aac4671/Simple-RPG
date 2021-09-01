@@ -37,7 +37,7 @@
 <h3 id="optional-character-classes">Optional: Character Classes</h3>
 <p>If you want, you can choose a class for your character. This lets them do some extra stuff, but also gives you a weakness. Being “weak” to a damage type makes that type of attack count as two hits.</p>
 <ul>
-<li><strong>Fighters</strong> get an extra attack, but are weak to magic damage.</li>
+<li><strong>Fighters</strong> can attack twice in a turn, but are weak to magic damage.</li>
 <li><strong>Specialists</strong> can pick locks, but are weak to all damage.</li>
 <li><strong>Mages</strong> can cast spells, but are weak to physical damage.</li>
 </ul>
